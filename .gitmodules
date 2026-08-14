@@ -28,3 +28,6 @@
 [submodule "Prompt-Quality-Evaluator-using-ML"]
 	path = Prompt-Quality-Evaluator-using-ML
 	url = https://github.com/Shahbazi-Amir/Prompt-Quality-Evaluator-using-ML.git
+[submodule "Student_Performance_Prediction"]
+	path = Student_Performance_Prediction
+	url = https://github.com/Shahbazi-Amir/Student_Performance_Prediction.git
