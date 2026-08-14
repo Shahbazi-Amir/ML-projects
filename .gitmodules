@@ -31,3 +31,6 @@
 [submodule "Student_Performance_Prediction"]
 	path = Student_Performance_Prediction
 	url = https://github.com/Shahbazi-Amir/Student_Performance_Prediction.git
+[submodule "smartlead_lead_scoring"]
+	path = smartlead_lead_scoring
+	url = https://github.com/Shahbazi-Amir/smartlead_lead_scoring.git
