@@ -43,3 +43,6 @@
 [submodule "sentiment_analysis_with_embeddings"]
 	path = sentiment_analysis_with_embeddings
 	url = https://github.com/Shahbazi-Amir/sentiment_analysis_with_embeddings.git
+[submodule "SmartDevTime"]
+	path = SmartDevTime
+	url = https://github.com/Shahbazi-Amir/SmartDevTime.git
