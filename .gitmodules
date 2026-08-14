@@ -13,3 +13,6 @@
 [submodule "House_Price_Prediction_Linear_Regression"]
 	path = House_Price_Prediction_Linear_Regression
 	url = https://github.com/Shahbazi-Amir/House_Price_Prediction_Linear_Regression.git
+[submodule "Contract-Random-Forest"]
+	path = Contract-Random-Forest
+	url = https://github.com/Shahbazi-Amir/Contract-Random-Forest.git
