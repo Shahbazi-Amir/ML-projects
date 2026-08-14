@@ -22,3 +22,6 @@
 [submodule "real_estate_ml_analysis_divar"]
 	path = real_estate_ml_analysis_divar
 	url = https://github.com/Shahbazi-Amir/real_estate_ml_analysis_divar.git
+[submodule "Football_Player-_prediction"]
+	path = Football_Player-_prediction
+	url = https://github.com/Shahbazi-Amir/Football_Player-_prediction.git
