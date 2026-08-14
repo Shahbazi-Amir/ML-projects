@@ -40,3 +40,6 @@
 [submodule "naive_model_sentiment_analyses"]
 	path = naive_model_sentiment_analyses
 	url = https://github.com/Shahbazi-Amir/naive_model_sentiment_analyses.git
+[submodule "sentiment_analysis_with_embeddings"]
+	path = sentiment_analysis_with_embeddings
+	url = https://github.com/Shahbazi-Amir/sentiment_analysis_with_embeddings.git
