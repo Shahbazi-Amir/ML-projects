@@ -19,3 +19,6 @@
 [submodule "Classification-with-Ensemble-Methods"]
 	path = Classification-with-Ensemble-Methods
 	url = https://github.com/Shahbazi-Amir/Classification-with-Ensemble-Methods.git
+[submodule "real_estate_ml_analysis_divar"]
+	path = real_estate_ml_analysis_divar
+	url = https://github.com/Shahbazi-Amir/real_estate_ml_analysis_divar.git
