@@ -7,3 +7,6 @@
 [submodule "Customer_Segmentation_KMeans"]
 	path = Customer_Segmentation_KMeans
 	url = https://github.com/Shahbazi-Amir/Customer_Segmentation_KMeans.git
+[submodule "Customer-Loyalty-Prediction-Using-KNN"]
+	path = Customer-Loyalty-Prediction-Using-KNN
+	url = https://github.com/Shahbazi-Amir/Customer-Loyalty-Prediction-Using-KNN.git
