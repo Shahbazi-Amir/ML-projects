@@ -16,3 +16,6 @@
 [submodule "Contract-Random-Forest"]
 	path = Contract-Random-Forest
 	url = https://github.com/Shahbazi-Amir/Contract-Random-Forest.git
+[submodule "Classification-with-Ensemble-Methods"]
+	path = Classification-with-Ensemble-Methods
+	url = https://github.com/Shahbazi-Amir/Classification-with-Ensemble-Methods.git
