@@ -4,3 +4,6 @@
 [submodule "diabetes_prediction_LR"]
 	path = diabetes_prediction_LR
 	url = https://github.com/Shahbazi-Amir/diabetes_prediction_LR.git
+[submodule "Customer_Segmentation_KMeans"]
+	path = Customer_Segmentation_KMeans
+	url = https://github.com/Shahbazi-Amir/Customer_Segmentation_KMeans.git
