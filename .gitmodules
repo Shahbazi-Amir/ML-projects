@@ -34,3 +34,6 @@
 [submodule "smartlead_lead_scoring"]
 	path = smartlead_lead_scoring
 	url = https://github.com/Shahbazi-Amir/smartlead_lead_scoring.git
+[submodule "sentiment_analysis"]
+	path = sentiment_analysis
+	url = https://github.com/Shahbazi-Amir/sentiment_analysis.git
