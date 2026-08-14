@@ -1,3 +1,6 @@
 [submodule "Car_price"]
 	path = Car_price
 	url = https://github.com/Shahbazi-Amir/Car_price.git
+[submodule "diabetes_prediction_LR"]
+	path = diabetes_prediction_LR
+	url = https://github.com/Shahbazi-Amir/diabetes_prediction_LR.git
