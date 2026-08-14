@@ -25,3 +25,6 @@
 [submodule "Football_Player-_prediction"]
 	path = Football_Player-_prediction
 	url = https://github.com/Shahbazi-Amir/Football_Player-_prediction.git
+[submodule "Prompt-Quality-Evaluator-using-ML"]
+	path = Prompt-Quality-Evaluator-using-ML
+	url = https://github.com/Shahbazi-Amir/Prompt-Quality-Evaluator-using-ML.git
