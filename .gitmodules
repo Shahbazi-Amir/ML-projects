@@ -46,3 +46,6 @@
 [submodule "SmartDevTime"]
 	path = SmartDevTime
 	url = https://github.com/Shahbazi-Amir/SmartDevTime.git
+[submodule "ML_Engineer"]
+	path = ML_Engineer
+	url = https://github.com/Shahbazi-Amir/ML_Engineer.git
